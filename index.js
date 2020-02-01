@@ -1,3 +1,4 @@
+/* eslint-disable strict */
 'use strict';
 
 const server = require('./src/lib/server.js');

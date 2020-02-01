@@ -1,3 +1,4 @@
+// eslint-disable-next-line strict
 'use strict';
 
 // 3rd party dependencies
