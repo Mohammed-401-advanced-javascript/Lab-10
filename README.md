@@ -1,4 +1,4 @@
-# LAB - Class 09
+# LAB - Class 10
 
 ## Project Name
 API Server
@@ -7,7 +7,7 @@ API Server
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/Mohammed-401-advanced-javascript/Lab-10/pull/1)
 - [ci/cd](https://github.com/Mohammed-401-advanced-javascript/Lab-09/actions) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
@@ -34,3 +34,5 @@ i.e.
 #### UML
 
 Link to an image of the UML for your application and response to events
+
+![Whiteboard](./assets/lab-09.jpg)
